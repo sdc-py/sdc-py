@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sdc-py
-- 👀 I’m interested in python, data nalaytics, data structures and web development
+- 👀 I’m interested in python, data anlaytics, data structures and web development
 - 🌱 I’m currently learning data structures
 
 
